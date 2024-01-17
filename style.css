@@ -3,8 +3,16 @@
     border: 1px dashed red;
 }
 
+img {  
+    border-radius: 25px;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 25px;
+}
+
 .test-dimension {
-    height: 200px;
+    min-width: 420px;
+    min-height: 280px;
 }
 
 .btn {
