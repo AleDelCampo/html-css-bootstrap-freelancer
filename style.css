@@ -1,1 +1,31 @@
-/*TEST*/
+.my_bg_color_dark {
+    background-color: #2c3e50;
+}
+
+.my_bg_color_green {
+    background-color: #1abc9c;
+}
+
+.my_text_color_green {
+    color: #1abc9c;
+}
+
+.my_bg_color_darklight {
+    background-color: #3a546d;
+}
+
+.my_icon_color_darklight {
+    color: #3a546d;
+}
+
+.my_form {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 0%;
+}
+
+.social-icons {
+    height: 50px;
+    width: 50px;
+}
